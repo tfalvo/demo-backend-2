@@ -1,6 +1,6 @@
 language: java
 #before_install: "git clone -b master https://github.com/Linaveo/mvn-rep.git target/mvn-repo"
-script: "mvn -X deploy --settings settings.xml"
+#script: "mvn -X deploy --settings settings.xml"
 env:
   global:
     secure: "DNeTYop/YiZdS9k0jCE+MxhOhdgkq8TeI3dDRq8kxy5LS1/7Rof6gI0Yju68sZlBOHzJreLYy9crHFsYY0DO+NsfNdVqHUu8KhSq7jpQSmZNdLEx3+wYajpz4zTtFIXSFPOMEiy1CdPRiTPsjssB6VnvvXk0HZPcCXmeM5047wMiju+fhuzMXKFRd0r0nfuk4oMLHSayL/0BfFniJNfkp2UAEpKzC/yTZUqcLOKrK5j35kMZ0tvD8Zz3IfQ7HLEMRSA6pVzB3IeJghrdd4GnK7nsKawKr73RRnbNQBWWFQPG3vzSBb2aEE0j0hWbPH/JWeH0WmPAbLCihlBED/peFk26xhZP3oTwOfQ3RMubtv89Ocd7FLPLdIdVv1i9oNu9x8ghlx/qBzLWb8KS6On77Z/Dt6E97krfjeYvXnjx4SAZA3Md88bnPAtH04Sas+JlD8f6dG9QZ3Is0y6b+s+z6hgALmh3rpSqS0XfOF81FO9iRe3J8tAee6w8gw7Q4LPKmdDB8ZL4luGkkdhQXvN3+lJ6GObwdyrpYNLW4KLOF5BgRvC4ck7EaSYOEwwnZp2k7aEDqiiYtcxbweW0+P0GSJe4Tzg9UbCvjgNUv5aqDblaqPhPph7tZ7RCU1F2phM2xLN+gygSRSpbKRyeyOb3MN37qIoU7JocZgouF2XTXeg="
