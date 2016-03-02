@@ -9,6 +9,17 @@
     <url>http://maven.apache.org</url>
     <description>demo backend</description>
 
+    <repositories>
+        <repository>
+            <id>git</id>
+            <url>https://github.com/Linaveo/mvn-rep/raw/master</url>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+        </repository>
+    </repositories>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
