@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>demo-backend Maven Webapp</name>
     <url>http://maven.apache.org</url>
-    <description>demo backend</description>
+    <description>demo backend 2</description>
 
     <repositories>
         <repository>
